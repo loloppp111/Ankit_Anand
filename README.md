@@ -15,7 +15,7 @@ This is a personal website created by **Ankit Anand**, a middle school student w
 To run this website locally, follow these steps:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/project-name.git
+   https://github.com/loloppp111/Ankit_Anand/commit/86ace151640bb0f39750b2266253bd44c448196b
    ```
 2. Open the `index.html` file in your browser to view the website.
 
@@ -23,3 +23,6 @@ To run this website locally, follow these steps:
 - **Home Page**: The homepage features links to various sections like **SEE BLOGGING**, **SEE IDEAS**, and more.
 - **Blogging Page**: Visit this page to read and share blog posts related to Physics, Math, and other topics.
 - **Ideas Page**: Explore and share creative and scientific ideas that spark your curiosity.
+
+
+If you want to contactwith me the mail me in   "ankit1qa@gmail.com
